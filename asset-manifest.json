@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/sedition_caucus_visualization/static/css/main.ddcd6e88.chunk.css",
+    "main.js": "/sedition_caucus_visualization/static/js/main.780fa0f6.chunk.js",
+    "main.js.map": "/sedition_caucus_visualization/static/js/main.780fa0f6.chunk.js.map",
+    "runtime-main.js": "/sedition_caucus_visualization/static/js/runtime-main.c6dd83e3.js",
+    "runtime-main.js.map": "/sedition_caucus_visualization/static/js/runtime-main.c6dd83e3.js.map",
+    "static/js/2.0bffbd35.chunk.js": "/sedition_caucus_visualization/static/js/2.0bffbd35.chunk.js",
+    "static/js/2.0bffbd35.chunk.js.map": "/sedition_caucus_visualization/static/js/2.0bffbd35.chunk.js.map",
+    "static/js/3.90512fc8.chunk.js": "/sedition_caucus_visualization/static/js/3.90512fc8.chunk.js",
+    "static/js/3.90512fc8.chunk.js.map": "/sedition_caucus_visualization/static/js/3.90512fc8.chunk.js.map",
+    "index.html": "/sedition_caucus_visualization/index.html",
+    "static/css/main.ddcd6e88.chunk.css.map": "/sedition_caucus_visualization/static/css/main.ddcd6e88.chunk.css.map",
+    "static/js/2.0bffbd35.chunk.js.LICENSE.txt": "/sedition_caucus_visualization/static/js/2.0bffbd35.chunk.js.LICENSE.txt",
+    "static/media/hero.scss": "/sedition_caucus_visualization/static/media/DarkMoney-2-dark.75b26252.jpg",
+    "static/media/App.scss": "/sedition_caucus_visualization/static/media/Montserrat-Regular.3cd78665.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c6dd83e3.js",
+    "static/js/2.0bffbd35.chunk.js",
+    "static/css/main.ddcd6e88.chunk.css",
+    "static/js/main.780fa0f6.chunk.js"
+  ]
+}
