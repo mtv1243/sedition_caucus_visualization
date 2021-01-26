@@ -1,27 +1,14 @@
 // import React, { useState, useEffect } from 'react';
 import './App.scss';
-import Header from './components/header/Header.js'
+import Main from './components/main/Main';
+import Footer from './components/footer/Footer';
 
 function App() {
 
   return (
     <div className="App">
-      <header className="App-header">
-        <Header />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-        <p>This is a new App!!!!</p>
-      </header>
-   
+        <Main />
+        <Footer />
     </div>
   );
 }

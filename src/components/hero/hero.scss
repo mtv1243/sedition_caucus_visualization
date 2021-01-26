@@ -1,0 +1,40 @@
+
+
+.hero {
+    font-family: 'Montserrat', sans-serif;
+    height: 100%;
+    width: 100%;
+    // display
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    // background
+    background-image: url('../../media_assets/DarkMoney-2-dark.jpg');
+    background-position: left;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    box-sizing: border-box;
+    padding-left: 3rem;
+    padding-right: 3rem;
+    &--titleText {
+        color: white;
+        font-weight: 500;
+        font-size: 3rem;
+        line-height: 1remx;
+        margin: 0;
+    }
+    &--subText {
+        color: rgb(194, 194, 194);
+        font-size: 1.25rem;
+    }
+    &--button {
+        margin-top: 1.5rem;
+        font-size: 18px;
+        padding: 1.25rem 2.5rem;
+        background-color: white;
+        border: none;
+        letter-spacing: 2px;
+    }
+}

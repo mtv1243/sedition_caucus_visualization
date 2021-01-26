@@ -1,0 +1,12 @@
+.callToAction {
+    font-size: 2rem;
+    line-height: 52px;
+    font-weight: 500;
+    &--button {
+        background-color: rgb(163, 0, 0);
+        color: white;
+        border: none;
+        font-size: 18px;
+        padding: 1.25rem 2.5rem;
+    }
+}

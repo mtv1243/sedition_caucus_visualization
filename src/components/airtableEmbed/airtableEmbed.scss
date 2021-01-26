@@ -1,0 +1,9 @@
+.airtableEmbed {
+    width: 100%;
+    margin-top: 2.5rem;
+    border: 1px solid #ccc;
+    &--iframe {
+        background: transparent; 
+        border: 1px solid #ccc;
+    }
+}

@@ -1,9 +1,12 @@
 import './header.scss';
+import SiteTitle from '../siteTitle/SiteTitle';
+import Hero from '../hero/Hero';
 
 function Header() {
     return (
-        <header>
-            <h1>THIS IS THE HEADER</h1>
+        <header className="header">
+            <SiteTitle />
+            <Hero />
         </header>
     )
 }
